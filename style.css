@@ -1,0 +1,104 @@
+
+:root {
+	- -background-primary: aquamarine;
+	- -highlight-primary: blue;
+}
+
+{
+
+}
+
+.title-container {
+	height: 50vh;
+
+	background-color: aquamarine;
+}
+.title-hello {
+		font-family: "Fredericka the Great";
+font-size: 10rem;
+font-weight: 500;
+
+}
+
+.title-name {
+	color: blueviolet;
+	background-color: chartreuse;
+	font-family: "Great Vibes";
+font-size: 2rem;
+font-weight: 800;
+
+position: relative;
+top: -2.5rem;
+}
+.title-tag {
+		font-family: "Shadows Into Light Two";
+font-size: 2rem;
+position: relative;
+top: -2rem;
+}
+
+.about-me-container {
+	width: 70vw;
+	height: 50vh;
+font-family: "Shadows Into Light Two";
+	margin-left: 10vw;
+padding-top: 20px !important;
+padding-bottom: 20px !important;
+padding-left: 20px !important;
+padding-right: 20px !important;
+	background-color: skyblue;
+}
+
+.about-me-image {
+	width: 15vw;
+	height: 15vw;
+
+	border-radius: 100%;
+
+	box-shadow: 10px 5px 10px black;
+}
+
+.about-me-text{
+	colour: teal;
+
+text-align: right;
+	padding-left: 5% !important;
+	padding-right: 5% !important;
+}
+
+.places-travelled-container{
+	font-family: "Shadows Into Light Two";
+	width: 80vw;
+	margin-left: 10vw;
+font-size:1.5rem;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.places-travelled-image {
+	width: 25vw;
+	height: 25vw;
+	
+}
+.places-travelled-title{
+
+	font-size:1.5rem;
+	font-weight: 500;
+	font-family: "Fredericka the Great";
+	margin-top: 5vh;
+	margin-left: 10vw;
+
+}
+
+.contact-me-container{
+
+
+	font-size: 2rem;
+	font-weight: 700;
+	font-family: "Fredericka the Great";
+}
+
+.contact-me-image{
+	width: 4rem;
+	hight: 4rem;
+
+}
